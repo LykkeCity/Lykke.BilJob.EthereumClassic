@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lykke.BilJob.EthereumClassic", "src\Lykke.BilJob.EthereumClassic\Lykke.BilJob.EthereumClassic.csproj", "{4F41C488-D8AF-4018-9D45-826927205C72}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{B9104111-CD91-487E-BEE1-8E5EDD732558}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F41C488-D8AF-4018-9D45-826927205C72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F41C488-D8AF-4018-9D45-826927205C72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F41C488-D8AF-4018-9D45-826927205C72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F41C488-D8AF-4018-9D45-826927205C72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4F41C488-D8AF-4018-9D45-826927205C72} = {B9104111-CD91-487E-BEE1-8E5EDD732558}
+	EndGlobalSection
+EndGlobal
