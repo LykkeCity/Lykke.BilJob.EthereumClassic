@@ -2,7 +2,6 @@ using Autofac;
 using JetBrains.Annotations;
 using Lykke.BilJob.EthereumClassic.Settings;
 using Lykke.Quintessence.Settings;
-using Lykke.Quintessence.Utils;
 
 namespace Lykke.BilJob.EthereumClassic.Modules
 {
