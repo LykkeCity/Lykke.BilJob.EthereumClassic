@@ -4,6 +4,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lykke.BilJob.EthereumClassi
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{B9104111-CD91-487E-BEE1-8E5EDD732558}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{91124C01-C0A0-413B-B28D-15165CAAA66D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lykke.BilJob.EthereumClassic.Tests", "tests\Lykke.BilJob.EthereumClassic.Tests\Lykke.BilJob.EthereumClassic.Tests.csproj", "{5F225FF5-74D9-4217-9F54-3483C20FAD41}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -14,8 +18,13 @@ Global
 		{4F41C488-D8AF-4018-9D45-826927205C72}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F41C488-D8AF-4018-9D45-826927205C72}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F41C488-D8AF-4018-9D45-826927205C72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F225FF5-74D9-4217-9F54-3483C20FAD41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F225FF5-74D9-4217-9F54-3483C20FAD41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F225FF5-74D9-4217-9F54-3483C20FAD41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F225FF5-74D9-4217-9F54-3483C20FAD41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{4F41C488-D8AF-4018-9D45-826927205C72} = {B9104111-CD91-487E-BEE1-8E5EDD732558}
+		{5F225FF5-74D9-4217-9F54-3483C20FAD41} = {91124C01-C0A0-413B-B28D-15165CAAA66D}
 	EndGlobalSection
 EndGlobal

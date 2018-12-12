@@ -6,6 +6,6 @@ namespace Lykke.BilJob.EthereumClassic.Settings
     [UsedImplicitly(ImplicitUseTargetFlags.WithMembers)]
     public class EthereumClassicJobSettings : JobSettings
     {
-        
+        public bool IsMainNet { get; set; }
     }
 }
