@@ -6,7 +6,7 @@ Job:
   BlockLockDuration:
     settings-key: Bcn-ETC-Job-BlockLockDuration
   ConfirmationLevel:
-    settings-key: Bcn-ETC-Job-ConfirmationLevel
+    settings-key: Bcn-ETC-ConfirmationLevel
   Db:
     DataConnString:
       settings-key: Bcn-ETC-DataConnString
